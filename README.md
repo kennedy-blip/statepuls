@@ -6,3 +6,4 @@ run
 install
 git
 fix
+errors
