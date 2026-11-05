@@ -9,3 +9,4 @@ fix
 errors
 git
 clear
+cache
