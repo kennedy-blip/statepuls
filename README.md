@@ -7,3 +7,4 @@ install
 git
 fix
 errors
+git
